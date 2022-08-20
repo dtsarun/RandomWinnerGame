@@ -1,0 +1,3 @@
+graph auth --product hosted-service 387819e1638f11f7e7d1ff1c57e4400b
+graph deploy --product hosted-service dtsarun/learnweb3
+
